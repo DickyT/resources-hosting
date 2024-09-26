@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Davids Ani Server",
+            "address": "https://YOURSERVER.com"
+        }
+    ]
+}
